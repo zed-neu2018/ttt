@@ -1,5 +1,7 @@
 {
 	classifier: "TX345",
+	owner: "default",
+	description: "TX disruptor",
 	specifier: {
 		name: "ferile",
 		data-segment: "FER24059502394",
