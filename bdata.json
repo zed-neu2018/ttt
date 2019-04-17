@@ -1,0 +1,10 @@
+{
+	classifier: "TX345",
+	specifier: {
+		name: "ferile",
+		data-segment: "FER24059502394",
+		data-brief: 12,
+		url: "/"
+	},
+	ref: 234
+}
