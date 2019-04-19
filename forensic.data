@@ -3,3 +3,9 @@
 compile 092383310-drft
 manifest 292338232-luxr
 holding 397426652-yuhd
+
+# bi-panel data
+
+bipanel = 23
+model = 1
+potential = 2
